@@ -1,19 +1,11 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About Megan
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
-
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
-
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Megan is a passionate email designer and developer who believes her work can be used to make a positive impact in a world that seems increasingly divided. This core belief led her to the Harold Grinspoon Foundation in 2017, where she works as the Email Marketing Specialist, creating responsive and engaging emails for the Foundation’s PJ Library program.\
+\
+In 2014, she co-founded Mango & Marigold Press (formerly Bharat Babies), an award-winning independent publishing house that shares the sweet and savory experiences of the South Asian experience. Because of this work, Megan has been featured in Mailchimp’s “What’s in Store” newsletter. Additionally, Megan created the brand identity for HikeMF, which has raised over $180,000 for MPN cancer research.\
+\
+Megan is able to create emails from design through development, QA, and deployment. She is most proficient with Mailchimp and has familiarity with additional email service providers. She is always eager to acquire new skills and can learn established processes or develop new ones as needed.\
+\
+In her spare time, Megan likes to spend time practicing Crossfit and taking photos of her two dogs, Orly and Momo.
