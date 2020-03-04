@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Megan Boshuyzen
-image: /img/austin-distel-Imc-IoZDMXc-unsplash (1).jpg
+image: /img/blog-index.jpg
 heading: Email
 subheading: Email Designer and Developer
 mainpitch:
