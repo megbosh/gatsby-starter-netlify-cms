@@ -7,16 +7,16 @@ subheading: Email Designer and Developer
 mainpitch:
   title: something here
   description: something here
-description: something here
+description: Description
 intro:
   blurbs: []
   heading: Intro Heading
   description: intro description
 main:
-  heading: something here
-  description: something here
+  heading: main heading
+  description: main description
   image1:
-    alt: something here
+    alt: lalala
     image: /img/austin-distel-Imc-IoZDMXc-unsplash (1).jpg
   image2:
     alt: something here
