@@ -10,8 +10,8 @@ mainpitch:
 description: something here
 intro:
   blurbs: []
-  heading: something here
-  description: something here
+  heading: Intro Heading
+  description: intro description
 main:
   heading: something here
   description: something here
